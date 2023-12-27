@@ -1,4 +1,10 @@
-### Hi there 👋
+### Take a look at my latest project! 👇
+
+[<img src="https://img.youtube.com/vi/TL6sejXlxPY/maxresdefault.jpg" width="50%">](https://youtu.be/TL6sejXlxPY)
+
+- Tech Stack: React, Redux, Redux Toolkit Query, TailwindCSS, and Node
+- APIs Used: Faker.js, JSON-Server, react-icons
+- See more details in the repo: jetsetnofuture/Social-Media-Skeleton-Page
 
 <!--
 **jetsetnofuture/jetsetnofuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
