@@ -1,22 +1,14 @@
-### Take a look at my latest project! 👇
+## Hey everyone! My name is Daniel Carbaugh and I am a front-end developer with previous experience in media production.
 
-[<img src="https://img.youtube.com/vi/TL6sejXlxPY/maxresdefault.jpg" width="50%">](https://youtu.be/TL6sejXlxPY)
+## Check out this video for an overview of my GitHub!
 
-- Tech Stack: React, Redux, Redux Toolkit Query, TailwindCSS, and Node
-- APIs Used: Faker.js, JSON-Server, react-icons
-- See more details in the repo: jetsetnofuture/Social-Media-Skeleton-Page
+[<img src="https://img.youtube.com/vi/TL6sejXlxPY/maxresdefault.jpg" width="50%">](https://vimeo.com/904200551/08cbf1cefb?share=copy)
 
-<!--
-**jetsetnofuture/jetsetnofuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Current Stack: JavaScript, React, Redux, Redux Toolkit Query, TailwindCSS, and Node
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating a user sign up and sign in/out workflow with proper authentication.
+- 🌱 I’m currently learning React, GraphQL, and Passport.js
+- 👯 I’m looking to collaborate on any project with front-end needs! With my background in video production, I can help with design and UI projects as well!
+- 💬 Ask me about Premier League football/soccer, Tekken, or streetwear fashion. Those are the things I will nerd out about!
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/daniel-carbaugh-b0800ba8/
+- ⚡ Fun fact: When I was a teenager, I became a black belt in karate and won multiple gold medals in competitive kumite in the AAU with Nishime Family Karate!
